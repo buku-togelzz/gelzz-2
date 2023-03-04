@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://buku-togelzz.github.io/gelzz-2/sitemap.xml
